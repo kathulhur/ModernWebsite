@@ -50,6 +50,13 @@ I followed this tutorial to learn how to turn Figma design into websites.
 
 <br />
 
+## Stay in touch
+
+- Author - [Joseph](https://github.com/kathulhur)
+- Website - [https://kathulhur.github.io/portfolio/](https://kathulhur.github.io/portfolio/)
+
+<br />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -121,11 +128,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-## Stay in touch
-
-- Author - [Joseph](https://github.com/kathulhur)
-- Website - [https://kathulhur.github.io/portfolio/](https://kathulhur.github.io/portfolio/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
