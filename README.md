@@ -36,10 +36,11 @@ This website is built by following the tutorial: [Build and Deploy a Fully Respo
 I followed this tutorial to learn how to turn Figma design into websites.
 
 <br>
-## What I learned following the tutorial
+
+### What I learned following the tutorial
+
 * Turn figma design into website using react, html, and css
 * Usage of flex and grid
-<br>
 * Structuring the project before the actual coding could help make development easier
 * Using structured class names (BEM) can make css writing a lot easier and more manageable
 
