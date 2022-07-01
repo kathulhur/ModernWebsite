@@ -24,9 +24,15 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-### Built With
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
+[![Product Name Screen Shot][product-screenshot]](https://kathulhur.github.io/ModernWebsite/)
+
+### Built With
 * [React](https://reactjs.org/)
+
+<br />
 
 ## Description
 A modern website that showcases GPT-3 which is an autoregressive language model that uses deep learning to produce human-like text created by OpenAI.
@@ -35,8 +41,6 @@ A modern website that showcases GPT-3 which is an autoregressive language model 
 This website is built by following the tutorial: [Build and Deploy a Fully Responsive Modern UI/UX Website in React JS](https://www.youtube.com/watch?v=LMagNcngvcU) by [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery).
 I followed this tutorial to learn how to turn Figma design into websites.
 
-<br>
-
 ### What I learned following the tutorial
 
 * Turn figma design into website using react, html, and css
@@ -44,7 +48,7 @@ I followed this tutorial to learn how to turn Figma design into websites.
 * Structuring the project before the actual coding could help make development easier
 * Using structured class names (BEM) can make css writing a lot easier and more manageable
 
-
+<br />
 
 # Getting Started with Create React App
 
@@ -122,7 +126,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - Author - [Joseph](https://github.com/kathulhur)
 - Website - [https://kathulhur.github.io/portfolio/](https://kathulhur.github.io/portfolio/)
-- Twitter - [@kathulhu_dev](https://twitter.com/kathulhu_dev)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -140,4 +143,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [license-url]: https://github.com/kathulhur/url-shortener/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joseph-karl-crisostomo-aa009021b
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: public/screenshot.png
